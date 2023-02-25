@@ -1,0 +1,17 @@
+C:\Code Windows\Demo_Checkbox\bin\Debug\net6.0-windows\Demo_Checkbox.exe
+C:\Code Windows\Demo_Checkbox\bin\Debug\net6.0-windows\Demo_Checkbox.deps.json
+C:\Code Windows\Demo_Checkbox\bin\Debug\net6.0-windows\Demo_Checkbox.runtimeconfig.json
+C:\Code Windows\Demo_Checkbox\bin\Debug\net6.0-windows\Demo_Checkbox.dll
+C:\Code Windows\Demo_Checkbox\bin\Debug\net6.0-windows\Demo_Checkbox.pdb
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.csproj.AssemblyReference.cache
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.AssemblyInfoInputs.cache
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.AssemblyInfo.cs
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.csproj.CoreCompileInputs.cache
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.dll
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\refint\Demo_Checkbox.dll
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.pdb
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.genruntimeconfig.cache
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\ref\Demo_Checkbox.dll
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.Form1.resources
+C:\Code Windows\Demo_Checkbox\obj\Debug\net6.0-windows\Demo_Checkbox.csproj.GenerateResource.cache

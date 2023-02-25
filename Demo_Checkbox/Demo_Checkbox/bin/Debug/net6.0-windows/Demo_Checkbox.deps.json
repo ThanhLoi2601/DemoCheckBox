@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Demo_Checkbox/1.0.0": {
+        "runtime": {
+          "Demo_Checkbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo_Checkbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
