@@ -33,7 +33,7 @@ namespace Demo_Checkbox
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            // Load
         }
     }
 }
