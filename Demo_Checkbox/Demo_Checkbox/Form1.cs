@@ -20,6 +20,7 @@ namespace Demo_Checkbox
         private void checkBox1_CheckStateChanged(object sender, EventArgs e)
         {
             //MessageBox.Show("CTC");
+            //Demo
         }
 
         private void buttonClick_Click(object sender, EventArgs e)
