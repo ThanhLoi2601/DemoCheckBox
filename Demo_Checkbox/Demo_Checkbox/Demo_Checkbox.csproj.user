@@ -4,7 +4,11 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Update="Form2.cs">
+=======
+    <Compile Update="Form4cs.cs">
+>>>>>>> main
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
